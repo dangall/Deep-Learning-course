@@ -1,0 +1,4 @@
+
+*.gz
+
+\.ipynb_checkpoints/
