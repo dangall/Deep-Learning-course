@@ -10,3 +10,5 @@ notMNIST_large/
 *.pickle
 
 *.p
+
+*.zip
